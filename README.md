@@ -11,7 +11,7 @@ A simple and elegant stopwatch application built with React and Vite.
 
 ## Live Demo
 
-Check out the live application: [https://iam269.github.io/timer_react/](https://iam269.github.io/timer_react/)
+Check out the live application: [https://itsiamdev.github.io/timer_react/](https://itsiamdev.github.io/timer_react/)
 
 ## Getting Started
 
